@@ -4,6 +4,12 @@
   <img width="300" height="300" src="assets/ninja.png">
 </p>
 
+<p align="center">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pycti?color=%2327AE60&style=plastic">
+    <img alt="GitHub" src="https://img.shields.io/github/license/mkdemir/opencti-watcher?color=%2334495E&style=plastic">
+
+</p>
+
 Watcher is a solution that integrates with security products using IoC (Indicator of Consensus) information gathered through the OpenCTI platform. This integration makes it possible to detect and respond to threats faster.
 
 ## Table of contents
@@ -11,6 +17,7 @@ Watcher is a solution that integrates with security products using IoC (Indicato
 * [Features](#features)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Contributing](#contributing)
 * [License](#license)
 
 ## Features
@@ -54,4 +61,4 @@ Watcher is a solution that integrates with security products using IoC (Indicato
 
 ## License
 
-This project is licensed under the **MIT License** - see the **[LICENSE](https://github.com/mkdemir/opencti-watcher/blob/main/LICENSE** file for details.
+This project is licensed under the **MIT License** - see the **[LICENSE](https://github.com/mkdemir/opencti-watcher/blob/main/LICENSE)** file for details.
