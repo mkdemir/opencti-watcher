@@ -1,0 +1,5 @@
+LOG_DIR=logs/
+LOG_FORMAT=%(asctime)s - %(levelname)s: %(message)s 
+DATA_DIR=data/
+DATA_RAW_DIR=data/raw_log/
+DATA_IOC_DIR=data/data_log/

@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv",
+    "python.linting.pylintPath": "${workspaceFolder}/venv/Scripts/pylint.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--errors-only"]
+}

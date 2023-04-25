@@ -1,0 +1,3 @@
+pycti
+python-dotenv
+pylint
